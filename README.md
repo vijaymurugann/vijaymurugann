@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Vijay (V)
+# 👋 Hi, I'm Vijay
 
-### Backend Engineer • Web3 Developer • Systems Thinker
+### Full-Stack Engineer • Web3 Developer • Systems Thinker
 
 I work across backend engineering, system architecture, API design, and Web3 development.  
 Most of my builds are production-ready systems — secure, scalable, and optimised for real workloads.
 
 - 🌍 Based in **Chennai, Tamil Nadu, India**  
-- 🧠 Exploring **Blockchain, Smart Contracts & Distributed Systems**  
+- 🧠 **Blockchain, Smart Contracts & Distributed Systems**  
 - 🤝 Open to collaborating on **Backend + Web3 projects**  
 - ⚡ Some of my personal projects are private while in active development  
 
