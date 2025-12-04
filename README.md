@@ -53,16 +53,6 @@ Most of my builds are production-ready systems — secure, scalable, and optimis
 
 ---
 
-## 🚀 Featured Projects
-
-### **Altforge Launchpad**
-A multi-chain crypto fundraising platform with automated token sales, multi-auth security, and zero hacks to date.
-
-### **AltPoints**
-A campaign automation engine for communities — smart workflows, Twitter-based scoring, and real-time actions.
-
----
-
 ## 🌐 Socials
 
 - GitHub: https://github.com/  
