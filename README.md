@@ -52,9 +52,6 @@ A multi-chain crypto fundraising platform with automated token sales, multi-auth
 ### **AltPoints**
 A campaign automation engine for communities — smart workflows, Twitter-based scoring, and real-time actions.
 
-### **Group Expense Splitter (WIP)**
-A modern, smooth app to track and settle group expenses effortlessly.
-
 ---
 
 ## 🌐 Socials
