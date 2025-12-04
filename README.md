@@ -53,6 +53,16 @@ Most of my builds are production-ready systems — secure, scalable, and optimis
 
 ---
 
+## 🚀 Featured Projects
+
+### **Altforge Launchpad**
+A multi-chain crypto fundraising platform with automated token sales, multi-auth security, and zero hacks to date.
+
+### **AltPoints**
+A campaign automation engine for communities — smart workflows, Twitter-based scoring, and real-time actions.
+
+---
+
 ## 🌐 Socials
 
 - GitHub: https://github.com/  
@@ -63,10 +73,12 @@ Most of my builds are production-ready systems — secure, scalable, and optimis
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaymurugann&show_icons=true&hide_border=true&theme=radical)
+> Replace `YOUR_GITHUB_USERNAME` with your actual handle
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaymurugann&layout=compact&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=radical)
 
 ---
 
-```
+If you want a **dark header banner**, **visitor counter**, or **trophy badges**, tell me — I’ll add it.```
