@@ -15,32 +15,41 @@ Most of my builds are production-ready systems — secure, scalable, and optimis
 ## 🛠 Skills & Technologies
 
 ### **Languages**
-- JavaScript, TypeScript  
-- Python  
-- C / C++  
-- Solidity  
-- SQL (PostgreSQL, MySQL)  
-- HTML / CSS  
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="48" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" />
+  <img src="https://skillicons.dev/icons?i=solidity" width="48" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" />
+</p>
+
+---
 
 ### **Frameworks & Tools**
-- Node.js, Express.js  
-- Next.js  
-- MongoDB, PostgreSQL  
-- Prisma ORM  
-- Redis  
-- Docker  
-- Web3.js / Ethers.js  
-- IPFS  
-- Firebase  
-- Framer Motion  
-- Figma  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" />
+</p>
+
+---
 
 ### **Blockchain**
-- Ethereum  
-- Polygon  
-- Smart Contract Development  
-- Wallet Integrations  
-- Security patterns & gas optimisation  
+<p>
+  <img src="https://skillicons.dev/icons?i=ethereum" width="48" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48" />
+</p>
 
 ---
 
@@ -64,12 +73,10 @@ A campaign automation engine for communities — smart workflows, Twitter-based 
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual handle
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaymurugann&show_icons=true&hide_border=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaymurugann&layout=compact&hide_border=true&theme=radical)
 
 ---
 
-If you want, I can add icons, badges, animations, visitor count, or a more aesthetic dark UI layout.
+```
