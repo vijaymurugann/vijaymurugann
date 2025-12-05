@@ -53,17 +53,6 @@ Most of my builds are production-ready systems — secure, scalable, and optimis
 
 ---
 
-## 📊 GitHub Stats
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaymurugann&show_icons=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaymurugann&layout=compact&hide_border=true&theme=radical)
-
----
-
-
-
 ## 🌐 Socials
                     
 <p align="left"> 
@@ -74,3 +63,14 @@ Most of my builds are production-ready systems — secure, scalable, and optimis
 
 
 ---
+
+
+## 📊 GitHub Stats
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaymurugann&show_icons=true&hide_border=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaymurugann&layout=compact&hide_border=true&theme=radical)
+
+---
+
