@@ -45,7 +45,7 @@ Most of my builds are production-ready systems — secure, scalable, and optimis
 
 ### **Blockchain**
 <p>
-  <img src="https://skillicons.dev/icons?i=ethereum" width="48" />
+  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/28b32812906c347fefc40bc30c5670a2f2003be5/public/icons/skills/ethereum-colored.svg" width="48" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="48" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="48" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48" />
@@ -65,11 +65,12 @@ Most of my builds are production-ready systems — secure, scalable, and optimis
 
 
 ## 🌐 Socials
+                    
+<p align="left"> 
+  <a href="https://www.github.com/vijaymurugann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+    <a href="https://www.linkedin.com/in/vijay-murugan-sde/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/28b32812906c347fefc40bc30c5670a2f2003be5/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://x.com/vijaymurugannn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/28b32812906c347fefc40bc30c5670a2f2003be5/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
-- GitHub: https://github.com/  
-- Instagram: https://instagram.com/  
-- Twitter: https://twitter.com/  
 
 ---
-
-```
