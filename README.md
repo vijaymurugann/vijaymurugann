@@ -21,8 +21,6 @@ Most of my builds are production-ready systems — secure, scalable, and optimis
   <img src="https://skillicons.dev/icons?i=python" width="48" />
   <img src="https://skillicons.dev/icons?i=cpp" width="48" />
   <img src="https://skillicons.dev/icons?i=solidity" width="48" />
-  <img src="https://skillicons.dev/icons?i=html" width="48" />
-  <img src="https://skillicons.dev/icons?i=css" width="48" />
   <img src="https://skillicons.dev/icons?i=sql" width="48" />
 </p>
 
